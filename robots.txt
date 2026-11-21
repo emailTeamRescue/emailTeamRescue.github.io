@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emailteamrescue.github.io/sitemap-index.xml
